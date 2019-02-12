@@ -41,6 +41,14 @@ class User extends Authenticatable
     ];
 
     /**
+     * Get the company of this user
+     */
+    public function company(): HasOne
+    {
+        return $this->hasOne(Company::class);
+    }
+
+    /**
      * Get all the orders of this user.
      *
      * @return HasMany
