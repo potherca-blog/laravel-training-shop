@@ -38,4 +38,9 @@ class Product extends Model
     {
         return $this->belongsToMany(Order::class)->withPivot('name', 'price', 'quantity');
     }
+
+    public function taxes(): BelongsTo
+    {
+        return $this->belongsTo(Taxes::class);
+    }
 }
