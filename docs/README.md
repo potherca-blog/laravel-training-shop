@@ -39,7 +39,39 @@ long-term projects.
 
 ## Day one
 
+The first day was spend going over all of the features Laravel has to offer.
+
+This was done, not with a workshop day, but with a presentation.
+
+The format was fairly open, allowing everyone to ask questions when needed.
+
+The presentation was an excellent introduction into the framework. We were
+provided with all the information we needed to start understanding how Laravel
+works and how it is built. A lot of this information was sure to come up again
+in the various workshop sessions.
+
+Although it was easy to follow and Bobby answered all questions with verve, I
+can understand if some of the attendees might feel overwhelmed by the sheer
+size of information.
+
+For that matter, I think it was a wise decision to only have the presentation
+during the first week, to let it all sink in and give people time to process
+everything.
+
 ## Day two
+
+The second day was a week later. It was split between Eloquent and Models in the
+morning and Collections in the afternoon. Besides more a presentation oriented
+parts, this day also contained question-and-answer, walking through the code,
+live coding demonstrations and hands-on workshop elements.
+
+We started with some knowledge and then more was added, followed by a practical
+example and a hands-on session where we had to program things ourselves.
+This was then repeated with the next topic.
+
+This way, the information was built up layer for layer, with practical parts
+to cement the theoretical knowledge. I found this to rather enjoyable and by the
+end of the day I was looking forward to the next day.
 
 ## Day three
 
