@@ -60,6 +60,19 @@ everything.
 
 ## Day two
 
+The second day was a week later. It was split between Eloquent and Models in the
+morning and Collections in the afternoon. Besides more a presentation oriented
+parts, this day also contained question-and-answer, walking through the code,
+live coding demonstrations and hands-on workshop elements.
+
+We started with some knowledge and then more was added, followed by a practical
+example and a hands-on session where we had to program things ourselves.
+This was then repeated with the next topic.
+
+This way, the information was built up layer for layer, with practical parts
+to cement the theoretical knowledge. I found this to rather enjoyable and by the
+end of the day I was looking forward to the next day.
+
 ## Day three
 
 ## Day four
