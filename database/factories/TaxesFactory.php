@@ -2,7 +2,7 @@
 
 use Faker\Generator as Faker;
 
-$factory->define(App\Taxes::class, function (Faker $faker) {
+$factory->define(App\Tax::class, function (Faker $faker) {
     $value = $faker->randomElement([0, 90, 160, 210]);
 
     return [
