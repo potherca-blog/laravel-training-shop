@@ -1,5 +1,6 @@
 <?php
 
+use App\Tax;
 use Illuminate\Database\Seeder;
 
 class TaxesTableSeeder extends Seeder
